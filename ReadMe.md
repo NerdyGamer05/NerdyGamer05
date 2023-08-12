@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Jai Patel</h1>
+<h3 align="center">I'm a developer</h3>
+
 # 💫 About Me:
 🔭 I’m currently a freshman at the University of Maryland: College Park<br>🌱 I’m currently learning data structures & algorithms<br>⚡ My high school superlative was most likely to get carpal tunnel syndrome 🤓
 
