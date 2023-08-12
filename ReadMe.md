@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jai Patel</h1>
-<h3 align="center">I'm a developer</h3>
 
 # 💫 About Me:
 🔭 I’m currently a freshman at the University of Maryland: College Park<br>🌱 I’m currently learning data structures & algorithms<br>⚡ My high school superlative was most likely to get carpal tunnel syndrome 🤓
 
 
 ## 🌐 Socials:
+[![LeetCode user NerdyGamer](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FNerdyGamer&logo=leetcode&logoColor=yellow)](https://leetcode.com/NerdyGamer/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17168449) 
 
 # 💻 Tech Stack:
@@ -14,6 +14,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=Nerdygamer05&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nerdygamer05&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerdygamer05&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🖥️ Sites I've Created
+- [MovieBattles](https://moviebattles.netlify.app/)
+- [Crossword Puzzle Generator](https://crosswordpuzzles.netlify.app/)
+- [Euler's Method Calculator](https://eulersmethod.netlify.app/)
+- [Number to Word Form](https://numtowords.netlify.app/)
+- [Calorie Calculator](https://caloriescalculator.netlify.app/)
+- [Sudoku Puzzle Solver](https://sudokupuzzlesolver.netlify.app/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nerdygamer05&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
