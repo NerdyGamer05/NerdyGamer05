@@ -18,7 +18,6 @@
 ## 🖥️ Sites I've Created
 - [MovieBattles](https://moviebattles.netlify.app/)
 - [Crossword Puzzle Generator](https://crosswordpuzzles.netlify.app/)
-- [Memeify GIF](https://memeifygif.netlify.app/)
 - [Euler's Method Calculator](https://eulersmethod.netlify.app/)
 - [Number to Word Form](https://numtowords.netlify.app/)
 - [Calorie Calculator](https://caloriescalculator.netlify.app/)
