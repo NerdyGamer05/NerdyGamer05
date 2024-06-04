@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jai Patel</h1>
 
 # 💫 About Me:
-🔭 I’m currently a freshman at the University of Maryland: College Park<br>🌱 I’m currently learning data structures & algorithms<br>⚡ My high school superlative was most likely to get carpal tunnel syndrome 🤓
+🔭 I’m currently a sophomore at the University of Maryland: College Park<br>🌱 I’m currently improving my DSA skills & learning more about full-stack development<br>⚡ My high school superlative was most likely to get carpal tunnel syndrome 🤓
 
 
 ## 🌐 Socials:
