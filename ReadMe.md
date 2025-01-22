@@ -16,6 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerdygamer05&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🖥️ Sites I've Created
+- [DailyIntegral](https://dailyintegral.vercel.app/)
 - [MovieBattles](https://moviebattles.netlify.app/)
 - [Crossword Puzzle Generator](https://crosswordpuzzles.netlify.app/)
 - [Euler's Method Calculator](https://eulersmethod.netlify.app/)
